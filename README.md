@@ -1,6 +1,6 @@
 
 <h1 align="right">MD MAKSUD HASAB BISHAL   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40px"/> </h1>
-<h3 align="center">Backend Developer | Python | Dajango | Django REST Framework</h3>
+<h3 align="center">Backend Developer | Python | Django | REST APIS</h3>
 <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/maksud-hasan/" target="_blank">
@@ -27,22 +27,6 @@
   </picture>
 </div>
 
-###
-
-<div align="center">
-  <!-- Dark Theme Images -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=initbishal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=initbishal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph">
-    <img src="https://github-readme-stats.vercel.app/api?username=initbishal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=initbishal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=initbishal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&order=2" height="150" alt="languages graph">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=initbishal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph">
-  </picture>
-</div>
 
 ###
 
