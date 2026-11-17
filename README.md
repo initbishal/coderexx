@@ -9,10 +9,10 @@
   <a href="https://wa.me/+8801703055918?text=I%27m%20inquiring%20about%20the%20Web%20Designing%20Services" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="maksud.hasan.dev@gmail.com" target="_blank">
+  <a href="maksudhasanbishal@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/3xbishal/" target="_blank">
+  <a href="https://www.instagram.com/init_bishal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -43,7 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
 </div>
 
 ###
@@ -55,5 +54,5 @@
 ###
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=1%2B%20Years%20of%20Job%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ffa500&vCenter=true&pause=1000&size=25"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=2%2B%20Years%20of%20Job%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ffa500&vCenter=true&pause=1000&size=25"/>
 </p>
